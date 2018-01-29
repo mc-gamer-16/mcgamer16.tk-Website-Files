@@ -1,0 +1,24 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Merriweather|Open+Sans|Raleway|Titillium+Web|Multi|Libre+Barcode+39+Extended+Text');
+
+body {
+  background-color: #262626;
+  font-family: "Open Sans", opensans;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #ffffff;
+  text-align: left;
+}
+
+h1 {
+  font-family: "Titillium Web", tittiliumweb;
+  font-size: 32px;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Open Sans";
+  font-size: 24px;
+  text-align: center;
+}
